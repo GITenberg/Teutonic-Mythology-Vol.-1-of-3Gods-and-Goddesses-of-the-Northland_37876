@@ -1,0 +1,45 @@
+_repo: Teutonic-Mythology-Vol.-1-of-3Gods-and-Goddesses-of-the-Northland_37876
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Anderson, Rasmus Björn
+    aliases:
+    - Anderson, Rasmus B. (Rasmus Björn)
+    - Anderson, Rasmus Bjorn
+    - Anderson, R. B. (Rasmus Björn)
+    birthdate: 1846
+    deathdate: 1936
+    gutenberg_agent_id: '4534'
+    url: http://www.gutenberg.org/2009/agents/4534
+    wikipedia: http://en.wikipedia.org/wiki/Rasmus_B._Anderson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rydberg, Viktor
+    aliases:
+    - Rydberg, Victor
+    - Rydberg, Abraham Viktor
+    - Rydberg, V. (Viktor)
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '3156'
+    url: http://www.gutenberg.org/2009/agents/3156
+    wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
+description: ''
+gutenberg_issued: '2011-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Norse'
+- !lcsh 'Mythology, Germanic'
+- !lcsh 'Legends -- Germany'
+- !lcc 'BL'
+title: 'Teutonic Mythology: Gods and Goddesses of the Northland. Vol. 1 of 3'
+url: http://www.gutenberg.org/ebooks/37876
