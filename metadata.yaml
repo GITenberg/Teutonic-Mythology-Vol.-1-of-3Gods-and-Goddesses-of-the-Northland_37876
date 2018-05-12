@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3156
     wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37876#Teutonic-Mythology-Vol.-1-of-3Gods-and-Goddesses-of-the-Northland
 gutenberg_issued: '2011-10-29'
 gutenberg_type: Text
 identifiers:
